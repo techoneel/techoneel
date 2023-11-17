@@ -10,21 +10,21 @@ Hey there! I'm [techoneel](techoneel.github.io), a passionate tech enthusiast wi
 
 My expertise spans a myriad of technologies, including:
 
-> **Frontend:** HTML, CSS, JavaScript, React, React Native
+**Frontend:** HTML, CSS, JavaScript, React, React Native
 
-> **Backend:** Java, PHP, Laravel, Spring, Node.js (Express.js, Nest.js)
+**Backend:** Java, PHP, Laravel, Spring, Node.js (Express.js, Nest.js)
 
-> **Databases:** MySQL, MSSQL, PostgreSQL
+**Databases:** MySQL, MSSQL, PostgreSQL
 
-> **CMS:** WordPress
+**CMS:** WordPress
 
-> **ERP:** Dolibarr
+**ERP:** Dolibarr
 
-> **Mobile:** React Native, Android Native
+**Mobile:** React Native, Android Native
 
-> **Automation:** Google App Scripts, Wordpress Plugin Development, Command Line Tools, Code Generator
+**Automation:** Google App Scripts, Wordpress Plugin Development, Command Line Tools, Code Generator
 
-> **Cloud:** AWS, GCP, Azure, Digital Ocean
+**Cloud:** AWS, GCP, Azure, Digital Ocean
 
 I believe in the power of versatile tech stacks to address the unique needs of each project, and I've successfully applied these skills to deliver robust solutions that elevate businesses.
 
